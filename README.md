@@ -1,16 +1,31 @@
-### Hi there 👋
+<h1 align="center">👋 Hi, I'm Karishma Jain </h1>
 
-<!--
-**karishma122/karishma122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🚀 Final year BTech CSE student, specializing in <b>Artificial Intelligence</b> and <b>Data Science</b>, on a quest to become a Data Analyst.
+</p>
 
-Here are some ideas to get you started:
+<h3 align="center">🛠️ My Toolbox:</h3>
+<p align="center">
+  <i>Spreadsheets 📈 | SQL 🗃️ | Tableau 📊 | R 📉 | Python 🐍</i>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">🏆 Experience:</h3>
+<p align="center">
+  🌐 <b>Data Analytics Intern</b> at <i>360digiTMG</i> <br>
+  📜 Currently mastering data with <b>Google Data Analytics Professional Certificate</b>
+</p>
+
+<h3 align="center">💡 My Passion:</h3>
+<p align="center">
+  <i>I thrive on turning data into actionable insights and informed decisions. Data is my canvas, and I paint with statistics.</i>
+</p>
+
+<h3 align="center">💬 Let's Connect:</h3>
+<p align="center">
+  Looking for a data-driven collaborator or eager to discuss potential projects and opportunities? Connect with me on <a href="https://www.linkedin.com/in/karishmajain124/">LinkedIn</a>.
+</p>
+
+<h3 align="center">🌐 Dive into data with me, and let's uncover the stories hidden in the numbers!</h3>
+
+
+
