@@ -1,7 +1,7 @@
 <h1 align="center">Welcome, I'm Karishma Jain!</h1>
 
 <p align="center">
-  A Recent CSE Graduate specializing in <b>Data Science</b> and <b>Artificial Intelligence</b>, driven by a passion for unraveling complex data puzzles.
+  A recent CSE Graduate specializing in <b>Data Science</b> and <b>Artificial Intelligence</b>, driven by a passion for unraveling complex data puzzles.
 </p>
 
 <h3 align="center">🛠️ My Toolbox:</h3>
