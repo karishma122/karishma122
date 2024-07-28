@@ -1,4 +1,4 @@
-![MasterHead](https://static.vecteezy.com/system/resources/previews/002/929/395/large_2x/data-analytics-girl-working-with-computer-in-the-office-vector.jpg)
+<img src="https://static.vecteezy.com/system/resources/previews/002/929/395/large_2x/data-analytics-girl-working-with-computer-in-the-office-vector.jpg" alt="MasterHead" width="300" height="300">
 <h1 align="center">Hi 👋, I'm Karishma Jain</h1>
 <h3 align="center">A passionate Data Analyst with a keen interest in Uncovering Insights from Complex Data Sets.</h3>
 <img align="right" alt="Coding" width="400" src="https://blog.imarticus.org/wp-content/uploads/2021/03/hhws.gif">
