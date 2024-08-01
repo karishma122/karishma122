@@ -18,7 +18,7 @@
 - **Proficient in Excel, SQL, and Python.**
 - **Experienced in analyzing complex datasets from internship at 360DigiTMG.**
 - **Google Data Analytics and Advanced Data Analytics certified.**
-- **Available for job opportunities.**
+- **Looking for job opportunities.**
 
 ---
 
