@@ -15,7 +15,7 @@
 - 📫 Connect with me at **jainkarishma0102@gmail.com**
 
 - **Recent B.Tech graduate in Computer Science, specializing in AI and Data Science.**
-- **Proficient in Excel, SQL, and Python.**
+- **Proficient in {ython, SQL and Excel**
 - **Experienced in analyzing complex datasets from internship at 360DigiTMG.**
 - **Google Data Analytics and Advanced Data Analytics Certified.**
 - **Looking for job opportunities.**
