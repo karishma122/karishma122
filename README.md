@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/karishma122/my-assets/main/data-analyst-profile-header.webp" alt="Data Analyst Header" width="100%">
-
 <h1 align="center">✨ Welcome to Karishma Jain's GitHub Profile! ✨</h1>
 <h3 align="center">🔍 Turning Data Into Actionable Insights 🚀</h3>
 
