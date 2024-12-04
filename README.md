@@ -38,7 +38,7 @@ Hi there! I'm **Karishma Jain**, a **data-driven professional** passionate about
 
 🏆 **Achievements**:
 - 🥇 **5-star SQL on HackerRank**
-- 🏅 Completed **LeetCode Top 50 SQL Challenges**
+- 🏅 Completed **LeetCode Top-50 SQL Challenges**
 
 ---
 
