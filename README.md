@@ -13,7 +13,7 @@ Hi there! I'm **Karishma Jain**, a **data-driven professional** passionate about
 - 🏆 **Achievements**:
   - **5-star SQL on HackerRank**
   - **LeetCode Top 50 SQL Completed**
-- 🌱 Always striving to learn and adopt **innovative tools and techniques** to solve complex problems
+- 🌱 Always striving to learn and adopt **innovative tools and techniques** to solve complex problems.
 - 🔍 **Open to Data Analytics Roles**
 
 📩 Let’s connect if you're looking for someone who combines technical expertise with a fresh perspective to deliver impactful results!
