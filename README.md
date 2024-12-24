@@ -53,7 +53,7 @@ Hi there! I'm **Karishma Jain**, a **data-driven professional** passionate about
 
 ### 🌟 **Why Work with Me?**
 
-With a solid foundation in **Python, SQL, and Excel**, I am adept at solving real-world challenges through data. I bring a **data-first mindset** and a **fresh perspective** to every task, ensuring impactful results. Whether it’s uncovering key insights or presenting data-driven solutions, I am committed to delivering value.
+With a solid foundation in **Python, SQL, Excel and Power BI**, I am adept at solving real-world challenges through data. I bring a **data-first mindset** and a **fresh perspective** to every task, ensuring impactful results. Whether it’s uncovering key insights or presenting data-driven solutions, I am committed to delivering value.
 
 ---
 
