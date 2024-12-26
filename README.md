@@ -7,7 +7,7 @@
 
 Hi there! I'm **Karishma Jain**, a **data-driven professional** passionate about uncovering patterns in data and transforming them into actionable insights. Here's what sets me apart:
 
-- 🎓 **B.Tech in Computer Science**, specializing in **AI & Data Science**
+- 🎓 **B.Tech in Computer Science**, specializing in **Artificial Intelligence & Data Science**
 - 🌟 Certified in **Google Data Analytics** & **Google Advanced Data Analytics**
 - 📊 Proficient in **Python, SQL, and Excel**, with expertise in data cleaning, analysis, and visualization
 - 🏆 **Achievements**:
