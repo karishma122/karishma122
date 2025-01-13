@@ -5,26 +5,21 @@
 
 ### 👩‍💻 **About Me**
 
-Hi there! I'm **Karishma Jain**, a **data-driven professional** passionate about uncovering patterns in data and transforming them into actionable insights. I bring a **problem-solving approach** and **fresh perspective** to every task. Here's what sets me apart:  
+Hi there! I'm **Karishma Jain**, a **data-driven professional** passionate about uncovering patterns in data and transforming them into actionable insights. Here's what sets me apart:  
 
 - 🎓 **B.Tech in Computer Science**, specializing in **Artificial Intelligence & Data Science**  
 - 🌟 Certified in **Google Data Analytics** & **Google Advanced Data Analytics**  
 - 🐍 Skilled in **Python, SQL, Power BI, and Excel** for data cleaning, analysis, and visualization  
-- 🏆 **Achievements**:
-  - **5-star SQL on HackerRank**  
-  - **Completed LeetCode Top 50 SQL Challenges**  
+- 🏆 **5-star SQL on HackerRank** and **LeetCode Top 50 SQL Challenges** completion  
 
-📚 I'm constantly learning new tools and techniques to solve real-world challenges. Let's connect if you're looking for someone to **turn data into actionable decisions!**
+I'm a **detail-oriented, results-driven individual** who brings a **fresh perspective** and thrives on solving real-world problems through data. Let's connect if you're looking for someone to **turn data into actionable decisions!**
 
 ---
 
 ### 🛠️ **Skills at a Glance**
 
 <p align="center">
-  🐍 **Python**  
-  🐘 **PostgreSQL**  
-  📊 **Excel**  
-  📈 **Power BI**  
+  🐍 **Python** | 🐘 **PostgreSQL** | 📊 **Excel** | 📈 **Power BI**  
 </p>
 
 <p align="center">
@@ -38,13 +33,10 @@ Hi there! I'm **Karishma Jain**, a **data-driven professional** passionate about
 
 ### 🎖️ **Certifications & Achievements**
 
-🌟 **Certifications**:
-- **Google Data Analytics**  
-- **Google Advanced Data Analytics**  
-
-🏆 **Achievements**:
+- 🌟 **Google Data Analytics**  
+- 🌟 **Google Advanced Data Analytics**  
 - 🥇 **5-star SQL on HackerRank**  
-- 🏅 Completed **LeetCode Top 50 SQL Challenges**  
+- 🏅 **LeetCode Top 50 SQL Challenges Completed**  
 
 ---
 
@@ -59,12 +51,12 @@ Hi there! I'm **Karishma Jain**, a **data-driven professional** passionate about
 
 ### 🌟 **Why Work with Me?**
 
-I bring a **data-first mindset** and a **problem-solving approach** to every task. With expertise in **Python, SQL, Excel, and Power BI**, I thrive on transforming raw data into meaningful insights that drive impactful decisions.
+I bring a **data-first mindset** and a **problem-solving approach** to every task. With expertise in **Python, SQL, Excel, and Power BI**, I excel at transforming raw data into meaningful insights that drive impactful decisions.
 
-💡 What sets me apart:  
-- 🔍 **Detail-oriented**: I ensure the smallest details are accounted for in my work.  
-- 📈 **Results-driven**: My focus is on delivering actionable insights that bring real value.  
-- 🌱 **Continuous learner**: I’m always exploring new tools, techniques, and methods to improve my work.
+💡 Here’s why you should work with me:
+- 🔍 **Detail-oriented**: I focus on precision in data cleaning, analysis, and reporting.  
+- 📈 **Results-driven**: I deliver actionable insights that bring real value to business decisions.  
+- 🌱 **Continuous learner**: I’m committed to staying updated with the latest tools and techniques.
 
 ---
 
@@ -81,6 +73,3 @@ I bring a **data-first mindset** and a **problem-solving approach** to every tas
     <img src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo.png" alt="Gmail" height="30" width="50" />
   </a>
 </p>
-
-
-
