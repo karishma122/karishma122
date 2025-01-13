@@ -19,9 +19,10 @@ I bring a **fresh perspective** to data challenges, combining technical expertis
 
 ### 🛠️ **Skills at a Glance**
 
-<p align="center">
-  🐍 **Python** &nbsp; | &nbsp; 🐘 **PostgreSQL** &nbsp; | &nbsp; 📊 **Excel** &nbsp; | &nbsp; 📈 **Power BI**
-</p>
+**🐍 Python**  
+**🐘 PostgreSQL**  
+**📊 Excel**  
+**📈 Power BI**
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" />
@@ -81,4 +82,3 @@ Here’s what sets me apart:
     <img src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo.png" alt="Gmail" height="30" width="50" />
   </a>
 </p>
-
