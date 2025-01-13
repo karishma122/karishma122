@@ -1,25 +1,26 @@
 <h1 align="center">✨ Welcome to Karishma Jain's GitHub Profile! ✨</h1>
-<h3 align="center">🔍 Turning Data Into Actionable Insights 🚀</h3>
+<h3 align="center">🔍 Transforming Data into Actionable Insights 🚀</h3>
 
 ---
 
 ### 👩‍💻 **About Me**
 
-Hi there! I'm **Karishma Jain**, a **data-driven professional** passionate about uncovering patterns in data and transforming them into actionable insights. Here's what sets me apart:  
+Hi there! I'm **Karishma Jain**, a **recent Computer Science graduate** with a specialization in **Artificial Intelligence & Data Science**. I’m driven by a passion for **unlocking the power of data** to solve real-world problems and empower businesses with data-driven decisions.
 
-- 🎓 **B.Tech in Computer Science**, specializing in **Artificial Intelligence & Data Science**  
+I bring a **fresh perspective** to data challenges, combining technical expertise with a **problem-solving mindset** to uncover key insights. My journey so far includes:
+
+- 🎓 **B.Tech in Computer Science** (AI & Data Science)  
 - 🌟 Certified in **Google Data Analytics** & **Google Advanced Data Analytics**  
 - 🐍 Skilled in **Python, SQL, Power BI, and Excel** for data cleaning, analysis, and visualization  
-- 🏆 **5-star SQL on HackerRank** and **LeetCode Top 50 SQL Challenges** completion  
 
-I'm a **detail-oriented, results-driven individual** who brings a **fresh perspective** and thrives on solving real-world problems through data. Let's connect if you're looking for someone to **turn data into actionable decisions!**
+📚 I’m continuously learning new tools and technologies to stay ahead in the fast-evolving world of data. **Curiosity, consistency, and collaboration** define my approach to work.
 
 ---
 
 ### 🛠️ **Skills at a Glance**
 
 <p align="center">
-  🐍 **Python** | 🐘 **PostgreSQL** | 📊 **Excel** | 📈 **Power BI**  
+  🐍 **Python** &nbsp; | &nbsp; 🐘 **PostgreSQL** &nbsp; | &nbsp; 📊 **Excel** &nbsp; | &nbsp; 📈 **Power BI**
 </p>
 
 <p align="center">
@@ -31,12 +32,17 @@ I'm a **detail-oriented, results-driven individual** who brings a **fresh perspe
 
 ---
 
-### 🎖️ **Certifications & Achievements**
+### 🎖️ **Certifications**
 
-- 🌟 **Google Data Analytics**  
-- 🌟 **Google Advanced Data Analytics**  
+- 📜 **Google Data Analytics**  
+- 📜 **Google Advanced Data Analytics**  
+
+---
+
+### 🏆 **Achievements**
+
 - 🥇 **5-star SQL on HackerRank**  
-- 🏅 **LeetCode Top 50 SQL Challenges Completed**  
+- 🏅 Completed **LeetCode Top 50 SQL Challenges**  
 
 ---
 
@@ -51,12 +57,14 @@ I'm a **detail-oriented, results-driven individual** who brings a **fresh perspe
 
 ### 🌟 **Why Work with Me?**
 
-I bring a **data-first mindset** and a **problem-solving approach** to every task. With expertise in **Python, SQL, Excel, and Power BI**, I excel at transforming raw data into meaningful insights that drive impactful decisions.
+💡 **I’m passionate about making sense of data.** I bring a combination of **technical skills, problem-solving abilities, and a curious mindset** to help businesses uncover insights that drive smarter decisions.  
 
-💡 Here’s why you should work with me:
-- 🔍 **Detail-oriented**: I focus on precision in data cleaning, analysis, and reporting.  
-- 📈 **Results-driven**: I deliver actionable insights that bring real value to business decisions.  
-- 🌱 **Continuous learner**: I’m committed to staying updated with the latest tools and techniques.
+Here’s what sets me apart:  
+
+✅ **Detail-Oriented:** I ensure precision in my work, from cleaning data to delivering polished dashboards.  
+📈 **Results-Driven:** I focus on turning raw data into actionable insights that improve business outcomes.  
+🤝 **Collaborative:** I thrive in team environments and love learning from others to improve my craft.  
+🌱 **Continuous Learner:** I’m always exploring new tools and techniques to solve complex data problems.
 
 ---
 
@@ -73,3 +81,4 @@ I bring a **data-first mindset** and a **problem-solving approach** to every tas
     <img src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo.png" alt="Gmail" height="30" width="50" />
   </a>
 </p>
+
