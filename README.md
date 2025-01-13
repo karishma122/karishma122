@@ -5,27 +5,33 @@
 
 ### 👩‍💻 **About Me**
 
-Hi there! I'm **Karishma Jain**, a **data-driven professional** passionate about uncovering patterns in data and transforming them into actionable insights. Here's what sets me apart:
+Hi there! I'm **Karishma Jain**, a **data-driven professional** passionate about uncovering patterns in data and transforming them into actionable insights. I bring a **problem-solving approach** and **fresh perspective** to every task. Here's what sets me apart:  
 
-- 🎓 **B.Tech in Computer Science**, specializing in **Artificial Intelligence & Data Science**
-- 🌟 Certified in **Google Data Analytics** & **Google Advanced Data Analytics**
-- 📊 Proficient in **Python, SQL, and Excel**, with expertise in data cleaning, analysis, and visualization
+- 🎓 **B.Tech in Computer Science**, specializing in **Artificial Intelligence & Data Science**  
+- 🌟 Certified in **Google Data Analytics** & **Google Advanced Data Analytics**  
+- 🐍 Skilled in **Python, SQL, Power BI, and Excel** for data cleaning, analysis, and visualization  
 - 🏆 **Achievements**:
-  - **5-star SQL on HackerRank**
-  - **LeetCode Top 50 SQL Completed**
-- 🌱 Always striving to learn and adopt **innovative tools and techniques** to solve complex problems.
-- 🔍 **Open to Data Analytics Roles**
+  - **5-star SQL on HackerRank**  
+  - **Completed LeetCode Top 50 SQL Challenges**  
 
-📩 Let’s connect if you're looking for someone who combines technical expertise with a fresh perspective to deliver impactful results!
+📚 I'm constantly learning new tools and techniques to solve real-world challenges. Let's connect if you're looking for someone to **turn data into actionable decisions!**
 
 ---
 
 ### 🛠️ **Skills at a Glance**
 
 <p align="center">
+  🐍 **Python**  
+  🐘 **PostgreSQL**  
+  📊 **Excel**  
+  📈 **Power BI**  
+</p>
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/2203px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" alt="Excel" width="50" height="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c8/Microsoft_Power_BI_Logo.svg" alt="Power BI" width="50" height="50" />
 </p>
 
 ---
@@ -33,12 +39,12 @@ Hi there! I'm **Karishma Jain**, a **data-driven professional** passionate about
 ### 🎖️ **Certifications & Achievements**
 
 🌟 **Certifications**:
-- **Google Data Analytics**
-- **Google Advanced Data Analytics**
+- **Google Data Analytics**  
+- **Google Advanced Data Analytics**  
 
 🏆 **Achievements**:
-- 🥇 **5-star SQL on HackerRank**
-- 🏅 Completed **LeetCode Top-50 SQL Challenges**
+- 🥇 **5-star SQL on HackerRank**  
+- 🏅 Completed **LeetCode Top 50 SQL Challenges**  
 
 ---
 
@@ -53,7 +59,12 @@ Hi there! I'm **Karishma Jain**, a **data-driven professional** passionate about
 
 ### 🌟 **Why Work with Me?**
 
-With a solid foundation in **Python, SQL, Excel and Power BI**, I am adept at solving real-world challenges through data. I bring a **data-first mindset** and a **fresh perspective** to every task, ensuring impactful results. Whether it’s uncovering key insights or presenting data-driven solutions, I am committed to delivering value.
+I bring a **data-first mindset** and a **problem-solving approach** to every task. With expertise in **Python, SQL, Excel, and Power BI**, I thrive on transforming raw data into meaningful insights that drive impactful decisions.
+
+💡 What sets me apart:  
+- 🔍 **Detail-oriented**: I ensure the smallest details are accounted for in my work.  
+- 📈 **Results-driven**: My focus is on delivering actionable insights that bring real value.  
+- 🌱 **Continuous learner**: I’m always exploring new tools, techniques, and methods to improve my work.
 
 ---
 
@@ -70,4 +81,6 @@ With a solid foundation in **Python, SQL, Excel and Power BI**, I am adept at so
     <img src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo.png" alt="Gmail" height="30" width="50" />
   </a>
 </p>
+
+
 
